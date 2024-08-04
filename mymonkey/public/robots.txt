@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mymonkey-6b9bc.web.app/.app/sitemap.xml
